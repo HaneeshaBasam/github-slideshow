@@ -2,5 +2,5 @@
 layout: slide
 title: "Welcome to our second slide!"
 ---
-Your text
+Always be happy and do everything you want.
 Use the left arrow to go back!
